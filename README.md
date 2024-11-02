@@ -1,4 +1,4 @@
-## HELLAUR 👋
+# HELLAUR‼️
 
 <!--
 **dechendb/dechendb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Dechen Bhuming, a current senior at Wellesley College studying Biological and Computer Sciences! I love Biology and with the incorporation of technology, I hope tp pursue this facinating and ever growing intersection!
+## **DECHEN BHUMING**
+- She/Her
+- Current senior at Wellesley College studying **Biological and Computer Sciences**!
+- Tibetan - American RAAAH
+- NYC Based (but at Wellesley for the school year!)
+
+### Current To-Do List (anyone wanna help...?)
+- [x] Create this README.md to begin with
+- [ ] Create a personal website
+- [ ] Plan spring breakkkkk
+
