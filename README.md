@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![pfp](https://github.com/user-attachments/assets/af4d5fbf-3de0-443b-9ad4-3091b1988ea3)
+![pfp-min](https://github.com/user-attachments/assets/b1b941ac-68a0-4afa-9478-2b1d3b43b537)
 
 ## **DECHEN BHUMING**
 - She/Her
