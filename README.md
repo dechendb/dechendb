@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![pfp](https://github.com/user-attachments/assets/af4d5fbf-3de0-443b-9ad4-3091b1988ea3)
+
 ## **DECHEN BHUMING**
 - She/Her
 - Current senior at Wellesley College studying **Biological and Computer Sciences**!
-- Tibetan - American RAAAH
+- Tibetan - American
 - NYC Based (but at Wellesley for the school year!)
 
-### Current To-Do List (anyone wanna help...?)
-- [x] Create this README.md to begin with
-- [ ] Create a personal website
-- [ ] Plan spring breakkkkk
+### Connect with Me!
+- email: db109@wellesley.edu
+- linkedin: [dechen bhuming](https://www.linkedin.com/in/dechen-bhuming/)
+
 
