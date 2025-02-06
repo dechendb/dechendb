@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dechen-bhuming/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/dechen-bhuming/" target="blank"> 
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
   <a href="mailto:db109@wellesley.edu, db109@wellesley.edu?subject=Connecting!">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
     </a>
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Dechen from NYC  (ര̀ᴗര́)و<br><br>🧬 I’m currently a Senior studying  Biology and Computer Science at Wellesley College<br><br>📚 I'm currently learning how to handle my impending future... and Deep learning and Genomics (if we're getting academic here..)<br><br>🎧 In my free time I really ♥ to dance Hip-Hop and Traditional Tibetan Dance! I also enjoy cutting and mixing music for my dance team, and would love to learn how to properly DJ in the future.</p>
+<p align="left">I'm Dechen from NYC  (ര̀ᴗര́)و<br><br>🧬 I’m currently a Senior studying  Biology and Computer Science at Wellesley College<br><br>📚 I'm currently learning how to handle my impending future... and Deep learning and Biostats (if we're getting academic here..)<br><br>🎧 In my free time I really ♥ to dance Hip-Hop and Traditional Tibetan Dance! I also enjoy cutting and mixing music for my dance team, and would love to learn how to properly DJ in the future.</p>
 
 ###
 
